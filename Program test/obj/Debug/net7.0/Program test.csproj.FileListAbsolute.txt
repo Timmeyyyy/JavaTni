@@ -1,0 +1,15 @@
+C:\Users\ASUS-PC\Desktop\Program test\bin\Debug\net7.0\Program test.exe
+C:\Users\ASUS-PC\Desktop\Program test\bin\Debug\net7.0\Program test.deps.json
+C:\Users\ASUS-PC\Desktop\Program test\bin\Debug\net7.0\Program test.runtimeconfig.json
+C:\Users\ASUS-PC\Desktop\Program test\bin\Debug\net7.0\Program test.dll
+C:\Users\ASUS-PC\Desktop\Program test\bin\Debug\net7.0\Program test.pdb
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.csproj.AssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.AssemblyInfoInputs.cache
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.AssemblyInfo.cs
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.dll
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\refint\Program test.dll
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.pdb
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\Program test.genruntimeconfig.cache
+C:\Users\ASUS-PC\Desktop\Program test\obj\Debug\net7.0\ref\Program test.dll
